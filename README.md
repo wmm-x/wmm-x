@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wmm-x
+- 👋 Hi, I’m malinda malshan
 - 👀 I’m interested in Research and Development
 - 🌱 I’m currently learning nodejs, c# .Net,
 - 💞️ I’m looking to collaborate on Online Platforms
